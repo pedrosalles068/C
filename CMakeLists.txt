@@ -6,6 +6,6 @@ add_executable(C Att2/while.c)
 add_executable(A aula/aula06.c)
 add_executable(F aula/forca.c)
 add_executable(D AttSala/attsala.c)
-add_executable(E Attavaliativa/att5.c)
+add_executable(E Attavaliativa/att6.c)
 
 

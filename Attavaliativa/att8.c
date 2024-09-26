@@ -1,14 +1,13 @@
 #include <stdio.h>
+#include <string.h>
 
 int main() {
     char texto[100];
     printf("Digite uma string: ");
-    fgets(texto, sizeof(texto), stdin);
+    scanf("%99[^\n]", texto);
 
-    int contador = 0;
-    while (texto[contador] != '\n' && texto[contador] != '\0') {
-        contador++;
-    }
+    int contador = strcspn(texto, "\n");
 
     printf("A string possui %d caracteres.\n", contador);
     return 0;
+}
