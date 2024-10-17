@@ -3,5 +3,8 @@ C:/Users/pedro/CLionProjects/C/cmake-build-debug/CMakeFiles/A.dir
 C:/Users/pedro/CLionProjects/C/cmake-build-debug/CMakeFiles/F.dir
 C:/Users/pedro/CLionProjects/C/cmake-build-debug/CMakeFiles/D.dir
 C:/Users/pedro/CLionProjects/C/cmake-build-debug/CMakeFiles/E.dir
+C:/Users/pedro/CLionProjects/C/cmake-build-debug/CMakeFiles/G.dir
+C:/Users/pedro/CLionProjects/C/cmake-build-debug/CMakeFiles/I.dir
+C:/Users/pedro/CLionProjects/C/cmake-build-debug/CMakeFiles/T.dir
 C:/Users/pedro/CLionProjects/C/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/pedro/CLionProjects/C/cmake-build-debug/CMakeFiles/rebuild_cache.dir

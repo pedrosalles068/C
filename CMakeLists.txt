@@ -6,6 +6,9 @@ add_executable(C Att2/while.c)
 add_executable(A aula/aula06.c)
 add_executable(F aula/forca.c)
 add_executable(D AttSala/attsala.c)
-add_executable(E Attavaliativa/att6.c)
+add_executable(E Torneio/att1.c)
+add_executable(G aula/lista.c)
+add_executable(I aula/lista_r.c)
+add_executable(T Attavaliativa2/at2.c)
 
 
